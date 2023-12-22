@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Accent Chair",
+    "price": 25,
+    "company": "marcos",
+    "rating": 4
+  },
+  {
+    "name": "Albany Shirt",
+    "price": 109,
+    "company": "liddy",
+    "rating": 5
+  },
+  {
+    "name": "Accent Trousers",
+    "price": 309,
+    "company": "liddy",
+    "rating": 4.9
+  },
+  {
+    "name": "Foreign Funiture",
+    "price": 16,
+    "company": "caressa",
+    "rating": 5.5
+  },
+  {
+    "name": "Household Utensils",
+    "price": 10,
+    "company": "ikea",
+    "rating": 5.9
+  },
+  {
+    "name": "Gucci Clothes",
+    "price": 120,
+    "company": "caressa",
+    "rating": 7.0,
+    "featured": true
+  }
+]
