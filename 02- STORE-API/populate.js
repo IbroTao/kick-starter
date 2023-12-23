@@ -12,8 +12,10 @@ const startApp = async () => {
     await Product.deleteMany();
     await Product.create(jsonProducts);
     console.log("Success !!!");
+    process.exit(0);
   } catch (err) {
     console.log(err);
+    process.exit(1);
   }
 };
 startApp(port);
